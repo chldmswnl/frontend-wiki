@@ -1,6 +1,9 @@
 # Frontend-wiki
 내가 보려고 만든 프론트엔드 정보 모음집
 
+### React
+- [리액트 서버 컴포넌트 - 카카오페이 기술블로그](https://tech.kakaopay.com/post/react-server-components/)
+
 ### Typescript
 - [캡틴판교 타입스크립트 핸드북](https://joshua1988.github.io/ts/intro.html)
 - [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript/)
