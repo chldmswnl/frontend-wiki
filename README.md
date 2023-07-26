@@ -22,6 +22,7 @@
 
 ### Next.js
 - [Next.js 제대로 알기](https://json.media/blog/proper_understading_of_nextjs) : Next.js 는 SSR을 위한 프레임워크가 아니다.
+- [Next.js Link와 Prefetch 과정 파헤쳐보기](https://medium.com/hcleedev/web-next-js-link%EC%99%80-prefetch-%EA%B3%BC%EC%A0%95-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EA%B8%B0-44e22ace13e7)
 
 ### React-query
 - [React Query의 구조와 useQuery 실행 흐름 살펴보기](https://fe-developers.kakaoent.com/2023/230720-react-query/)
