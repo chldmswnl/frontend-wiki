@@ -7,6 +7,7 @@
 ### React
 - [리액트 서버 컴포넌트 - 카카오페이 기술블로그](https://tech.kakaopay.com/post/react-server-components/)
 - [UI 런타임으로서의 리액트 - Dan abramov](https://overreacted.io/ko/react-as-a-ui-runtime/)
+- [성능하면 빠질 수 없는 메모제이션, 네가 궁금해](https://d2.naver.com/helloworld/9223303)
 
 ### Typescript
 - [캡틴판교 타입스크립트 핸드북](https://joshua1988.github.io/ts/intro.html)
