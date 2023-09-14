@@ -13,6 +13,7 @@
 - [캡틴판교 타입스크립트 핸드북](https://joshua1988.github.io/ts/intro.html)
 - [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript/)
 - [Typescript deep dive](https://radlohead.gitbook.io/typescript-deep-dive/)
+- [우리 팀의 우아한 타입스크립트 컨벤션 정하기 여정 - 우아한 기술블로그] (https://techblog.woowahan.com/9804/#toc-3)
 
 ### React native 
 - [React native deep dive](https://velog.io/@seoyong-lee/React-Native%EC%9D%98-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC)
