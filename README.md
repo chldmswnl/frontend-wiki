@@ -39,3 +39,4 @@
 - [이직하려는 친구에게 보내는 프런트엔드 개발 면접 질문](https://joshua1988.github.io/web-development/interview/frontend-questions/#%EB%8B%A8%EA%B3%A8-%EC%A7%88%EB%AC%B8---%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%8B%A4-%EC%95%8C%EA%B3%A0-%EB%8C%80%EB%8B%B5%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EB%82%B4%EC%9A%A9)
 - [멀쩡한 앱을 Flutter 앱으로 다시 짠 이유](https://engineering.linecorp.com/ko/blog/demaecan-2nd-recode-kmm-to-flutter)
 - [Vanila extract](https://vanilla-extract.style/)
+- [당근 리브랜딩 캠페인 페이지를 개발하며 배운 것](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%BA%A0%ED%8E%98%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83-b41d866df9b7)
